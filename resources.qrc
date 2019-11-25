@@ -1,0 +1,431 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/Algorithm Blocks/goldbarBE.png</file>
+        <file>Images/Algorithm Blocks/goldbarBN.png</file>
+        <file>Images/Algorithm Blocks/goldbarBS.png</file>
+        <file>Images/Algorithm Blocks/goldbarBW.png</file>
+        <file>Images/Algorithm Blocks/goldbarE1S.png</file>
+        <file>Images/Algorithm Blocks/goldbarE2S.png</file>
+        <file>Images/Algorithm Blocks/goldbarE3S.png</file>
+        <file>Images/Algorithm Blocks/goldbarE4S.png</file>
+        <file>Images/Algorithm Blocks/goldbarJE.png</file>
+        <file>Images/Algorithm Blocks/goldbarJN.png</file>
+        <file>Images/Algorithm Blocks/goldbarJS.png</file>
+        <file>Images/Algorithm Blocks/goldbarJW.png</file>
+        <file>Images/Algorithm Blocks/goldbarN1S.png</file>
+        <file>Images/Algorithm Blocks/goldbarN2S.png</file>
+        <file>Images/Algorithm Blocks/goldbarN3S.png</file>
+        <file>Images/Algorithm Blocks/goldbarN4S.png</file>
+        <file>Images/Algorithm Blocks/goldbarS1S.png</file>
+        <file>Images/Algorithm Blocks/goldbarS2S.png</file>
+        <file>Images/Algorithm Blocks/goldbarS3S.png</file>
+        <file>Images/Algorithm Blocks/goldbarS4S.png</file>
+        <file>Images/Algorithm Blocks/goldbarW1S.png</file>
+        <file>Images/Algorithm Blocks/goldbarW2S.png</file>
+        <file>Images/Algorithm Blocks/goldbarW3S.png</file>
+        <file>Images/Algorithm Blocks/goldbarW4S.png</file>
+        <file>Images/Algorithm Blocks/purplebarBE.png</file>
+        <file>Images/Algorithm Blocks/purplebarBN.png</file>
+        <file>Images/Algorithm Blocks/purplebarBS.png</file>
+        <file>Images/Algorithm Blocks/purplebarBW.png</file>
+        <file>Images/Algorithm Blocks/purplebarE1S.png</file>
+        <file>Images/Algorithm Blocks/purplebarE2S.png</file>
+        <file>Images/Algorithm Blocks/purplebarE3S.png</file>
+        <file>Images/Algorithm Blocks/purplebarE4S.png</file>
+        <file>Images/Algorithm Blocks/purplebarJE.png</file>
+        <file>Images/Algorithm Blocks/purplebarJN.png</file>
+        <file>Images/Algorithm Blocks/purplebarJS.png</file>
+        <file>Images/Algorithm Blocks/purplebarJW.png</file>
+        <file>Images/Algorithm Blocks/purplebarN1S.png</file>
+        <file>Images/Algorithm Blocks/purplebarN2S.png</file>
+        <file>Images/Algorithm Blocks/purplebarN3S.png</file>
+        <file>Images/Algorithm Blocks/purplebarN4S.png</file>
+        <file>Images/Algorithm Blocks/purplebarS1S.png</file>
+        <file>Images/Algorithm Blocks/purplebarS2S.png</file>
+        <file>Images/Algorithm Blocks/purplebarS3S.png</file>
+        <file>Images/Algorithm Blocks/purplebarS4S.png</file>
+        <file>Images/Algorithm Blocks/purplebarW1S.png</file>
+        <file>Images/Algorithm Blocks/purplebarW2S.png</file>
+        <file>Images/Algorithm Blocks/purplebarW3S.png</file>
+        <file>Images/Algorithm Blocks/purplebarW4S.png</file>
+        <file>Images/Algorithm Blocks/START.png</file>
+        <file>Images/Menu/Space Menu.jpg</file>
+        <file>Images/Algorithm Blocks/STARTgreen.png</file>
+        <file>Images/Level/level1.png</file>
+        <file>Images/Level/level2.png</file>
+        <file>Images/Digit/0blk.png</file>
+        <file>Images/Digit/1blk.png</file>
+        <file>Images/Digit/2blk.png</file>
+        <file>Images/Digit/3blk.png</file>
+        <file>Images/Digit/4blk.png</file>
+        <file>Images/Digit/5blk.png</file>
+        <file>Images/Digit/6blk.png</file>
+        <file>Images/Digit/7blk.png</file>
+        <file>Images/Digit/8blk.png</file>
+        <file>Images/Digit/9blk.png</file>
+        <file>Images/Robot/nadia robot-01.png</file>
+        <file>Images/Robot/nadia robot-02.png</file>
+        <file>Images/Robot/nadia robot-03.png</file>
+        <file>Images/Robot/nadia robot-04.png</file>
+        <file>Images/Robot/nadia robot-05.png</file>
+        <file>Images/Robot/nadia robot-06.png</file>
+        <file>Images/Robot/nadia robot-07.png</file>
+        <file>Images/Robot/nadia robot-08.png</file>
+        <file>Images/Robot/nadia robot-09.png</file>
+        <file>Images/Robot/nadia robot-10.png</file>
+        <file>Images/Robot/nadia robot-11.png</file>
+        <file>Images/Robot/nadia robot-12.png</file>
+        <file>Images/Level/level4.png</file>
+        <file>Images/Level/level5.png</file>
+        <file>Images/Level/level6.png</file>
+        <file>Images/Level/level7.png</file>
+        <file>Images/Level/level8.png</file>
+        <file>Images/Buttons/BACK.png</file>
+        <file>Images/Buttons/BACKblue.png</file>
+        <file>Images/Buttons/HOME.png</file>
+        <file>Images/Buttons/HOMEblue.png</file>
+        <file>Images/Medal/bronzemedal.png</file>
+        <file>Images/Medal/goldmedal.png</file>
+        <file>Images/Medal/silvermedal.png</file>
+        <file>Images/Buttons/mute.png</file>
+        <file>Images/Buttons/volume.png</file>
+        <file>Images/Menu/mainmenu.png</file>
+        <file>Images/Buttons/about.png</file>
+        <file>Images/Buttons/aboutblue - Copy.png</file>
+        <file>Images/Buttons/instructions - Copy.png</file>
+        <file>Images/Buttons/instructions.png</file>
+        <file>Images/Buttons/instructionsblue - Copy.png</file>
+        <file>Images/Buttons/instructionsblue.png</file>
+        <file>Images/Buttons/levelselection - Copy.png</file>
+        <file>Images/Buttons/levelselection.png</file>
+        <file>Images/Buttons/levelselectionblue - Copy.png</file>
+        <file>Images/Buttons/levelselectionblue.png</file>
+        <file>Images/Buttons/loadgame.png</file>
+        <file>Images/Buttons/loadgameblue.png</file>
+        <file>Images/Buttons/newgame.png</file>
+        <file>Images/Buttons/newgameblue.png</file>
+        <file>Images/Menu/level1select.png</file>
+        <file>Images/Menu/level2select.png</file>
+        <file>Images/Menu/level3select.png</file>
+        <file>Images/Menu/level4select.png</file>
+        <file>Images/Menu/level5select.png</file>
+        <file>Images/Menu/level6select.png</file>
+        <file>Images/Menu/level7select.png</file>
+        <file>Images/Menu/level8select.png</file>
+        <file>Images/Level Selection Planets/planet1green.png</file>
+        <file>Images/Level Selection Planets/planet1lock.png</file>
+        <file>Images/Level Selection Planets/planet1pink.png</file>
+        <file>Images/Level Selection Planets/planet2green.png</file>
+        <file>Images/Level Selection Planets/planet2lock.png</file>
+        <file>Images/Level Selection Planets/planet2pink.png</file>
+        <file>Images/Level Selection Planets/planet3green.png</file>
+        <file>Images/Level Selection Planets/planet3lock.png</file>
+        <file>Images/Level Selection Planets/planet3pink.png</file>
+        <file>Images/Level Selection Planets/planet4lock.png</file>
+        <file>Images/Level Selection Planets/planet4pink.png</file>
+        <file>Images/Level Selection Planets/planet5green.png</file>
+        <file>Images/Level Selection Planets/planet5lock.png</file>
+        <file>Images/Level Selection Planets/planet5pink.png</file>
+        <file>Images/Level Selection Planets/planet6green.png</file>
+        <file>Images/Level Selection Planets/planet6lock.png</file>
+        <file>Images/Level Selection Planets/planet6pink.png</file>
+        <file>Images/Level Selection Planets/planet7green.png</file>
+        <file>Images/Level Selection Planets/planet7lock.png</file>
+        <file>Images/Level Selection Planets/planet7pink.png</file>
+        <file>Images/Level Selection Planets/planet8green.png</file>
+        <file>Images/Level Selection Planets/planet8lock.png</file>
+        <file>Images/Level Selection Planets/planet8pink.png</file>
+        <file>Images/Buttons/aboutblue.png</file>
+        <file>Images/Buttons/createprofile.png</file>
+        <file>Images/Buttons/createprofileblue.png</file>
+        <file>Images/Buttons/loadprofile.png</file>
+        <file>Images/Buttons/loadprofileblue.png</file>
+        <file>Images/Menu/hs.jpg</file>
+        <file>Images/Letters/byellow.png</file>
+        <file>Images/Letters/cyellow.png</file>
+        <file>Images/Letters/dyellow.png</file>
+        <file>Images/Letters/eyellow.png</file>
+        <file>Images/Letters/fyellow.png</file>
+        <file>Images/Letters/gyellow.png</file>
+        <file>Images/Letters/hyellow.png</file>
+        <file>Images/Letters/iyellow.png</file>
+        <file>Images/Letters/jyellow.png</file>
+        <file>Images/Letters/kyellow.png</file>
+        <file>Images/Letters/lyellow.png</file>
+        <file>Images/Letters/myellow.png</file>
+        <file>Images/Letters/nyellow.png</file>
+        <file>Images/Letters/oyellow.png</file>
+        <file>Images/Letters/pyellow.png</file>
+        <file>Images/Letters/qyellow.png</file>
+        <file>Images/Letters/ryellow.png</file>
+        <file>Images/Letters/syellow.png</file>
+        <file>Images/Letters/tyellow.png</file>
+        <file>Images/Letters/uyellow.png</file>
+        <file>Images/Letters/vyellow.png</file>
+        <file>Images/Letters/wyellow.png</file>
+        <file>Images/Letters/xyellow.png</file>
+        <file>Images/Letters/yyellow.png</file>
+        <file>Images/Letters/zyellow.png</file>
+        <file>Images/Digit/0yellow.png</file>
+        <file>Images/Digit/1yellow.png</file>
+        <file>Images/Digit/2yellow.png</file>
+        <file>Images/Digit/3yellow.png</file>
+        <file>Images/Digit/4yellow.png</file>
+        <file>Images/Digit/5yellow.png</file>
+        <file>Images/Digit/6yellow.png</file>
+        <file>Images/Digit/7yellow.png</file>
+        <file>Images/Digit/8yellow.png</file>
+        <file>Images/Digit/9yellow.png</file>
+        <file>Images/Letters/ayellow.png</file>
+        <file>Images/Buttons/highscore.png</file>
+        <file>Images/Buttons/highscoreblue.png</file>
+        <file>Images/Buttons/nextlevel.png</file>
+        <file>Images/Buttons/nextlevelblue.png</file>
+        <file>Images/Buttons/nextblue.png</file>
+        <file>Images/Buttons/next.png</file>
+        <file>Images/Obstacles/bridge-01.png</file>
+        <file>Images/Obstacles/bridge-02.png</file>
+        <file>Images/Obstacles/bridge-03.png</file>
+        <file>Images/Obstacles/bridge-04.png</file>
+        <file>Images/Obstacles/BUTTONS-01.png</file>
+        <file>Images/Obstacles/BUTTONS-02.png</file>
+        <file>Images/Obstacles/FLAMES-01.png</file>
+        <file>Images/Obstacles/FLAMES-02.png</file>
+        <file>Images/Obstacles/FLAMES-03.png</file>
+        <file>Images/Obstacles/FLAMES-04.png</file>
+        <file>Images/Obstacles/FLAMES-05.png</file>
+        <file>Images/Obstacles/FLAMES-06.png</file>
+        <file>Images/Obstacles/FLAMES-07.png</file>
+        <file>Images/Obstacles/FLAMES-08.png</file>
+        <file>Images/Obstacles/FLAMES-09.png</file>
+        <file>Images/Obstacles/portal1.png</file>
+        <file>Images/Obstacles/portal2.png</file>
+        <file>Images/Obstacles/portal3.png</file>
+        <file>Images/Level Selection Buttons/silverlock.png</file>
+        <file>Images/Level Selection Buttons/gold1.png</file>
+        <file>Images/Level Selection Buttons/gold2.png</file>
+        <file>Images/Level Selection Buttons/gold3.png</file>
+        <file>Images/Level Selection Buttons/gold4.png</file>
+        <file>Images/Level Selection Buttons/gold5.png</file>
+        <file>Images/Level Selection Buttons/gold6.png</file>
+        <file>Images/Level Selection Buttons/gold7.png</file>
+        <file>Images/Level Selection Buttons/gold8.png</file>
+        <file>Images/Level Selection Buttons/gold9.png</file>
+        <file>Images/Level Selection Buttons/gold10.png</file>
+        <file>Images/Level Selection Buttons/gold11.png</file>
+        <file>Images/Level Selection Buttons/gold12.png</file>
+        <file>Images/Level Selection Buttons/gold13.png</file>
+        <file>Images/Level Selection Buttons/gold14.png</file>
+        <file>Images/Level Selection Buttons/gold15.png</file>
+        <file>Images/Level Selection Buttons/gold16.png</file>
+        <file>Images/Level Selection Buttons/gold17.png</file>
+        <file>Images/Level Selection Buttons/gold18.png</file>
+        <file>Images/Level Selection Buttons/gold19.png</file>
+        <file>Images/Level Selection Buttons/gold20.png</file>
+        <file>Images/Level Selection Buttons/gold21.png</file>
+        <file>Images/Level Selection Buttons/gold22.png</file>
+        <file>Images/Level Selection Buttons/gold23.png</file>
+        <file>Images/Level Selection Buttons/gold24.png</file>
+        <file>Images/Level Selection Buttons/gold25.png</file>
+        <file>Images/Level Selection Buttons/gold26.png</file>
+        <file>Images/Level Selection Buttons/gold27.png</file>
+        <file>Images/Level Selection Buttons/gold28.png</file>
+        <file>Images/Level Selection Buttons/gold29.png</file>
+        <file>Images/Level Selection Buttons/gold30.png</file>
+        <file>Images/Level Selection Buttons/gold31.png</file>
+        <file>Images/Level Selection Buttons/gold32.png</file>
+        <file>Images/Level Selection Buttons/gold33.png</file>
+        <file>Images/Level Selection Buttons/gold34.png</file>
+        <file>Images/Level Selection Buttons/gold35.png</file>
+        <file>Images/Level Selection Buttons/gold36.png</file>
+        <file>Images/Level Selection Buttons/gold37.png</file>
+        <file>Images/Level Selection Buttons/gold38.png</file>
+        <file>Images/Level Selection Buttons/gold39.png</file>
+        <file>Images/Level Selection Buttons/gold40.png</file>
+        <file>Images/Level Selection Buttons/gold41.png</file>
+        <file>Images/Level Selection Buttons/gold42.png</file>
+        <file>Images/Level Selection Buttons/gold43.png</file>
+        <file>Images/Level Selection Buttons/gold44.png</file>
+        <file>Images/Level Selection Buttons/gold45.png</file>
+        <file>Images/Level Selection Buttons/gold46.png</file>
+        <file>Images/Level Selection Buttons/gold47.png</file>
+        <file>Images/Level Selection Buttons/gold48.png</file>
+        <file>Images/Level Selection Buttons/gold49.png</file>
+        <file>Images/Level Selection Buttons/gold50.png</file>
+        <file>Images/Level Selection Buttons/gold51.png</file>
+        <file>Images/Level Selection Buttons/gold52.png</file>
+        <file>Images/Level Selection Buttons/gold53.png</file>
+        <file>Images/Level Selection Buttons/gold54.png</file>
+        <file>Images/Level Selection Buttons/gold55.png</file>
+        <file>Images/Level Selection Buttons/gold56.png</file>
+        <file>Images/Level Selection Buttons/gold57.png</file>
+        <file>Images/Level Selection Buttons/gold58.png</file>
+        <file>Images/Level Selection Buttons/gold59.png</file>
+        <file>Images/Level Selection Buttons/gold60.png</file>
+        <file>Images/Level Selection Buttons/gold61.png</file>
+        <file>Images/Level Selection Buttons/gold62.png</file>
+        <file>Images/Level Selection Buttons/gold63.png</file>
+        <file>Images/Level Selection Buttons/gold64.png</file>
+        <file>Images/Level Selection Buttons/gold65.png</file>
+        <file>Images/Level Selection Buttons/gold66.png</file>
+        <file>Images/Level Selection Buttons/gold67.png</file>
+        <file>Images/Level Selection Buttons/gold68.png</file>
+        <file>Images/Level Selection Buttons/gold69.png</file>
+        <file>Images/Level Selection Buttons/gold70.png</file>
+        <file>Images/Level Selection Buttons/gold71.png</file>
+        <file>Images/Level Selection Buttons/gold72.png</file>
+        <file>Images/Level Selection Buttons/gold73.png</file>
+        <file>Images/Level Selection Buttons/gold74.png</file>
+        <file>Images/Level Selection Buttons/gold75.png</file>
+        <file>Images/Level Selection Buttons/gold76.png</file>
+        <file>Images/Level Selection Buttons/gold77.png</file>
+        <file>Images/Level Selection Buttons/gold78.png</file>
+        <file>Images/Level Selection Buttons/gold79.png</file>
+        <file>Images/Level Selection Buttons/gold80.png</file>
+        <file>Images/Level Selection Buttons/gold81.png</file>
+        <file>Images/Level Selection Buttons/gold82.png</file>
+        <file>Images/Level Selection Buttons/gold83.png</file>
+        <file>Images/Level Selection Buttons/gold84.png</file>
+        <file>Images/Level Selection Buttons/gold85.png</file>
+        <file>Images/Level Selection Buttons/gold86.png</file>
+        <file>Images/Level Selection Buttons/gold87.png</file>
+        <file>Images/Level Selection Buttons/gold88.png</file>
+        <file>Images/Level Selection Buttons/gold89.png</file>
+        <file>Images/Level Selection Buttons/gold90.png</file>
+        <file>Images/Level Selection Buttons/gold91.png</file>
+        <file>Images/Level Selection Buttons/gold92.png</file>
+        <file>Images/Level Selection Buttons/gold93.png</file>
+        <file>Images/Level Selection Buttons/gold94.png</file>
+        <file>Images/Level Selection Buttons/gold95.png</file>
+        <file>Images/Level Selection Buttons/gold96.png</file>
+        <file>Images/Robot/nadia robot-01gold.png</file>
+        <file>Images/Robot/nadia robot-02gold.png</file>
+        <file>Images/Robot/nadia robot-03gold.png</file>
+        <file>Images/Robot/nadia robot-04gold.png</file>
+        <file>Images/Robot/nadia robot-05gold.png</file>
+        <file>Images/Robot/nadia robot-06gold.png</file>
+        <file>Images/Robot/nadia robot-07gold.png</file>
+        <file>Images/Robot/nadia robot-08gold.png</file>
+        <file>Images/Robot/nadia robot-09gold.png</file>
+        <file>Images/Robot/nadia robot-10gold.png</file>
+        <file>Images/Robot/nadia robot-11gold.png</file>
+        <file>Images/Robot/nadia robot-12gold.png</file>
+        <file>Images/Buttons/150x200.png</file>
+        <file>Images/Buttons/150x300.png</file>
+        <file>Images/Buttons/150x400.png</file>
+        <file>Images/Buttons/150x500.png</file>
+        <file>Images/Buttons/150x600.png</file>
+        <file>Images/Buttons/150x700.png</file>
+        <file>Images/Buttons/150x800.png</file>
+        <file>Images/Buttons/150x900.png</file>
+        <file>Images/Buttons/150x1000.png</file>
+        <file>Images/Level/level3.png</file>
+        <file>Images/Level/level9.png</file>
+        <file>Images/Level/level10.png</file>
+        <file>Images/Level/level11.png</file>
+        <file>Images/Level/level12.png</file>
+        <file>Images/Level2/level13.png</file>
+        <file>Images/Level2/level14.png</file>
+        <file>Images/Level2/level15.png</file>
+        <file>Images/Level2/level16.png</file>
+        <file>Images/Level2/level17.png</file>
+        <file>Images/Level2/level18.png</file>
+        <file>Images/Level2/level19.png</file>
+        <file>Images/Level2/level20.png</file>
+        <file>Images/Level2/level21.png</file>
+        <file>Images/Level2/level22.png</file>
+        <file>Images/Level2/level23.png</file>
+        <file>Images/Level2/level24.png</file>
+        <file>Images/Obstacles/sbridge-01.png</file>
+        <file>Images/Obstacles/sbridge-02.png</file>
+        <file>Images/Obstacles/sbridge-03.png</file>
+        <file>Images/Obstacles/sbridge-04.png</file>
+        <file>Images/Level3/level25.png</file>
+        <file>Images/Level3/level27.png</file>
+        <file>Images/Level3/level28.png</file>
+        <file>Images/Level3/level29.png</file>
+        <file>Images/Level3/level30.png</file>
+        <file>Images/Level3/level31.png</file>
+        <file>Images/Level3/level32.png</file>
+        <file>Images/Level3/level33.png</file>
+        <file>Images/Level3/level34.png</file>
+        <file>Images/Level3/level35.png</file>
+        <file>Images/Level3/level36.png</file>
+        <file>Images/Level3/level26.png</file>
+        <file>Images/Level4/level37.png</file>
+        <file>Images/Level4/level38.png</file>
+        <file>Images/Level4/level39.png</file>
+        <file>Images/Level4/level40.png</file>
+        <file>Images/Level4/level41.png</file>
+        <file>Images/Level4/level42.png</file>
+        <file>Images/Level4/level43.png</file>
+        <file>Images/Level4/level44.png</file>
+        <file>Images/Level4/level45.png</file>
+        <file>Images/Level4/level46.png</file>
+        <file>Images/Level4/level47.png</file>
+        <file>Images/Level4/level48.png</file>
+        <file>Images/Level5/level49.png</file>
+        <file>Images/Level5/level50.png</file>
+        <file>Images/Level5/level51.png</file>
+        <file>Images/Level5/level52.png</file>
+        <file>Images/Level5/level53.png</file>
+        <file>Images/Level5/level54.png</file>
+        <file>Images/Level5/level55.png</file>
+        <file>Images/Level5/level56.png</file>
+        <file>Images/Level5/level57.png</file>
+        <file>Images/Level5/level58.png</file>
+        <file>Images/Level5/level59.png</file>
+        <file>Images/Level5/level60.png</file>
+        <file>Images/Level5/level61.png</file>
+        <file>Images/Level6/level61.png</file>
+        <file>Images/Level6/level62.png</file>
+        <file>Images/Level6/level63.png</file>
+        <file>Images/Level6/level64.png</file>
+        <file>Images/Level6/level65.png</file>
+        <file>Images/Level6/level66.png</file>
+        <file>Images/Level6/level67.png</file>
+        <file>Images/Level6/level68.png</file>
+        <file>Images/Level6/level69.png</file>
+        <file>Images/Level6/level70.png</file>
+        <file>Images/Level6/level71.png</file>
+        <file>Images/Level6/level72.png</file>
+        <file>Images/Level7/level73.png</file>
+        <file>Images/Level7/level74.png</file>
+        <file>Images/Level7/level75.png</file>
+        <file>Images/Level7/level76.png</file>
+        <file>Images/Level7/level77.png</file>
+        <file>Images/Level7/level78.png</file>
+        <file>Images/Level7/level79.png</file>
+        <file>Images/Level7/level80.png</file>
+        <file>Images/Level7/level81.png</file>
+        <file>Images/Level7/level82.png</file>
+        <file>Images/Level7/level83.png</file>
+        <file>Images/Level7/level84.png</file>
+        <file>Images/Obstacles/portal4.png</file>
+        <file>Images/Level8/level85.png</file>
+        <file>Images/Level8/level86.png</file>
+        <file>Images/Level8/level87.png</file>
+        <file>Images/Level8/level88.png</file>
+        <file>Images/Level8/level89.png</file>
+        <file>Images/Level8/level90.png</file>
+        <file>Images/Level8/level91.png</file>
+        <file>Images/Level8/level92.png</file>
+        <file>Images/Level8/level93.png</file>
+        <file>Images/Level8/level94.png</file>
+        <file>Images/Level8/level95.png</file>
+        <file>Images/Level8/level96.png</file>
+        <file>Images/Level8/Thumbs.db</file>
+        <file>Images/Menu/robotmazegold.png</file>
+        <file>Images/Buttons/delete.png</file>
+        <file>Images/Level/level100.png</file>
+        <file>Images/Level/level101.png</file>
+        <file>Images/Level/level103.png</file>
+        <file>Images/Buttons/multiplayer.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Sounds/Robot/robotBlip.wav</file>
+        <file>Sounds/Music/cat.mp3</file>
+        <file>Sounds/Robot/fail.wav</file>
+        <file>Sounds/Robot/ta da.wav</file>
+    </qresource>
+</RCC>

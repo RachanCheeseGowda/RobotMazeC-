@@ -1,0 +1,4 @@
+#ifndef LEVELHIGHSCORE_H
+#define LEVELHIGHSCORE_H
+
+#endif // LEVELHIGHSCORE_H

@@ -1,0 +1,164 @@
+#include "Text.h"
+#include <QtDebug>
+
+Text::Text(QChar c)
+{
+    this->c=c;
+    set_image(c);
+}
+
+Text::~Text()
+{
+
+}
+
+void Text::set_image(QChar c)
+{
+    //Letters
+    if(c=='A'){
+        setPixmap(QPixmap(":/Images/Images/Letters/ayellow.png"));
+    }
+    if(c=='B'){
+        setPixmap(QPixmap(":/Images/Images/Letters/byellow.png"));
+    }
+    if(c=='C'){
+        setPixmap(QPixmap(":/Images/Images/Letters/cyellow.png"));
+    }
+    if(c=='D'){
+        setPixmap(QPixmap(":/Images/Images/Letters/dyellow.png"));
+    }
+    if(c=='E'){
+        setPixmap(QPixmap(":/Images/Images/Letters/eyellow.png"));
+    }
+    if(c=='F'){
+        setPixmap(QPixmap(":/Images/Images/Letters/fyellow.png"));
+    }
+    if(c=='G'){
+        setPixmap(QPixmap(":/Images/Images/Letters/gyellow.png"));
+    }
+    if(c=='H'){
+        setPixmap(QPixmap(":/Images/Images/Letters/hyellow.png"));
+    }
+    if(c=='I'){
+        setPixmap(QPixmap(":/Images/Images/Letters/iyellow.png"));
+    }
+    if(c=='J'){
+        setPixmap(QPixmap(":/Images/Images/Letters/jyellow.png"));
+    }
+    if(c=='K'){
+        setPixmap(QPixmap(":/Images/Images/Letters/kyellow.png"));
+    }
+    if(c=='L'){
+        setPixmap(QPixmap(":/Images/Images/Letters/lyellow.png"));
+    }
+    if(c=='M'){
+        setPixmap(QPixmap(":/Images/Images/Letters/myellow.png"));
+    }
+    if(c=='N'){
+        setPixmap(QPixmap(":/Images/Images/Letters/nyellow.png"));
+    }
+    if(c=='O'){
+        setPixmap(QPixmap(":/Images/Images/Letters/oyellow.png"));
+    }
+    if(c=='P'){
+        setPixmap(QPixmap(":/Images/Images/Letters/pyellow.png"));
+    }
+    if(c=='Q'){
+        setPixmap(QPixmap(":/Images/Images/Letters/qyellow.png"));
+    }
+    if(c=='R'){
+        setPixmap(QPixmap(":/Images/Images/Letters/ryellow.png"));
+    }
+    if(c=='S'){
+        setPixmap(QPixmap(":/Images/Images/Letters/syellow.png"));
+    }
+    if(c=='T'){
+        setPixmap(QPixmap(":/Images/Images/Letters/tyellow.png"));
+    }
+    if(c=='U'){
+        setPixmap(QPixmap(":/Images/Images/Letters/uyellow.png"));
+    }
+    if(c=='V'){
+        setPixmap(QPixmap(":/Images/Images/Letters/vyellow.png"));
+    }
+    if(c=='W'){
+        setPixmap(QPixmap(":/Images/Images/Letters/wyellow.png"));
+    }
+    if(c=='X'){
+        setPixmap(QPixmap(":/Images/Images/Letters/xyellow.png"));
+    }
+    if(c=='Y'){
+        setPixmap(QPixmap(":/Images/Images/Letters/yyellow.png"));
+    }
+    if(c=='Z'){
+        setPixmap(QPixmap(":/Images/Images/Letters/zyellow.png"));
+    }
+    //Digits
+    if(c=='0'){
+        setPixmap(QPixmap(":/Images/Images/Digit/0yellow.png"));
+    }
+    if(c=='1'){
+        setPixmap(QPixmap(":/Images/Images/Digit/1yellow.png"));
+    }
+    if(c=='2'){
+        setPixmap(QPixmap(":/Images/Images/Digit/2yellow.png"));
+    }
+    if(c=='3'){
+        setPixmap(QPixmap(":/Images/Images/Digit/3yellow.png"));
+    }
+    if(c=='4'){
+        setPixmap(QPixmap(":/Images/Images/Digit/4yellow.png"));
+    }
+    if(c=='5'){
+        setPixmap(QPixmap(":/Images/Images/Digit/5yellow.png"));
+    }
+    if(c=='6'){
+        setPixmap(QPixmap(":/Images/Images/Digit/6yellow.png"));
+    }
+    if(c=='7'){
+        setPixmap(QPixmap(":/Images/Images/Digit/7yellow.png"));
+    }
+    if(c=='8'){
+        setPixmap(QPixmap(":/Images/Images/Digit/8yellow.png"));
+    }
+    if(c=='9'){
+        setPixmap(QPixmap(":/Images/Images/Digit/9yellow.png"));
+    }
+}
+
+void Text::set_black_digit(QChar c)
+{
+    //Digits
+    if(c=='0'){
+        setPixmap(QPixmap(":/Images/Images/Digit/0blk.png"));
+    }
+    if(c=='1'){
+        setPixmap(QPixmap(":/Images/Images/Digit/1blk.png"));
+    }
+    if(c=='2'){
+        setPixmap(QPixmap(":/Images/Images/Digit/2blk.png"));
+    }
+    if(c=='3'){
+        setPixmap(QPixmap(":/Images/Images/Digit/3blk.png"));
+    }
+    if(c=='4'){
+        setPixmap(QPixmap(":/Images/Images/Digit/4blk.png"));
+    }
+    if(c=='5'){
+        setPixmap(QPixmap(":/Images/Images/Digit/5blk.png"));
+    }
+    if(c=='6'){
+        setPixmap(QPixmap(":/Images/Images/Digit/6blk.png"));
+    }
+    if(c=='7'){
+        setPixmap(QPixmap(":/Images/Images/Digit/7blk.png"));
+    }
+    if(c=='8'){
+        setPixmap(QPixmap(":/Images/Images/Digit/8blk.png"));
+    }
+    if(c=='9'){
+        setPixmap(QPixmap(":/Images/Images/Digit/9blk.png"));
+    }
+}
+
+
